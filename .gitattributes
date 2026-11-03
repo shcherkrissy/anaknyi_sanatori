@@ -1,0 +1,5 @@
+*.dwg binary
+*.dxf binary
+*.pdf binary
+*.zip binary
+*.csv -text whitespace=cr-at-eol
